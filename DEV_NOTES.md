@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Improved log message formatting
 - Pinned dependency versions for reproducibility
+
+## 2026-05-13
+- Added CONTRIBUTING.md stub
+- Removed unused variable declarations
+- Checked for memory leaks in long-running path
